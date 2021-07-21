@@ -1,0 +1,61 @@
+Automated identification of shockable and non-shockable life-threatening ventricular arrhythmias using convolutional neural network
+使用卷积神经网络自动识别颤动和非颤动的危及生命的室性心律失常
+
+Follow the Sound of Children’s Heart: A Deep-Learning-Based Computer-Aided Pediatric CHDs Diagnosis System
+跟随孩子的心声：基于深度学习的计算机辅助小儿冠心病诊断系统
+
+Coronary Heart Disease Diagnosis using Deep Neural Networks
+使用深度神经网络进行冠心病诊断
+
+Coronary heart disease interpretation based on deep neural network
+基于深度神经网络的冠心病解读
+
+Detection of Cardiac Structural Abnormalities in Fetal Ultrasound Videos Using Deep Learning
+使用深度学习检测胎儿超声视频中的心脏结构异常
+
+
+Deep learning for predicting in-hospital mortality among heart disease patients based on echocardiography
+基于超声心动图预测心脏病患者院内死亡率的深度学习
+
+Using Deep Learning to Detect Pediatric Congenital Heart Disease by Chest Radiography
+使用深度学习通过胸片检测小儿先天性心脏病
+
+
+An Imperative Diagnostic Model for Predicting CHD using Deep Learning
+使用深度学习预测 CHD 的命令式诊断模型
+
+A smart healthcare monitoring system for heart disease prediction based on ensemble deep learning and feature fusion
+基于集成深度学习和特征融合的心脏病预测智能医疗监测系统
+
+A New Approach for Arrhythmia Classiﬁcation Using Deep Coded Features and LSTM Networks
+使用深度编码特征和 LSTM 网络进行心律失常分类的新方法
+
+An Effective LSTM Recurrent Network to Detect Arrhythmia on Imbalanced ECG Dataset
+在不平衡 ECG 数据集上检测心律失常的有效 LSTM 循环网络
+
+Real-time cardiovascular MR with spatio-temporal artifact suppression using deep learning–proof of concept in congenital heart disease
+使用深度学习进行时空伪影抑制的实时心血管 MR——先天性心脏病的概念验证
+
+Attention-Based Deep Neural Network for Coronary Heart Disease Risk Prediction
+用于冠心病风险预测的基于注意力的深度神经网络
+
+Classiﬁcation of coronary artery disease data sets by using a deep neural network
+使用深度神经网络对冠状动脉疾病数据集进行分类
+
+Diagnosis of Coronary Artery Disease Using Deep Belief Networks
+使用深度信念网络诊断冠状动脉疾病
+
+Automated diagnosis of arrhythmia using combination of CNN and LSTM techniques with variable length heart beats
+使用 CNN 和 LSTM 技术结合可变长度心跳自动诊断心律失常
+
+Denoising and artefact removal for transthoracic echocardiographic
+经胸超声心动图的去噪和伪影去除
+
+Deep Learning Model Management for Coronary Heart Disease Early Warning
+冠心病早期预警的深度学习模型管理
+
+MFB-CBRNN: a hybrid network for MI detection using 12-lead ECGs
+MFB-CBRNN使用12导联心电图进行心梗检测的混合网络
+
+Artificial Intelligence-based Echocardiogram Video Classification by Aggregating Dynamic Information
+基于人工智能的超声心动图视频分类
