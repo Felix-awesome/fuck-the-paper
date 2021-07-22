@@ -1,0 +1,12 @@
+血管内超声成像用于动脉粥样硬化分类的领域丰富的深度学习方法
+
+A New Approach for Arrhythmia Classification Using Deep Coded Features and
+LSTM Networks使用深编码特征和LSTM网络进行心律失常分类的新方法
+
+使用电子健康记录预测急性冠状动脉综合征临床风险的正则化深度学习方法
+
+Follow the Sound of Children’s Heart: A Deep-Learning-Based Computer-Aided Pediatric CHDs Diagnosis System追随孩子的心声--基于深度学习的小儿冠心病计算机辅助诊断系统
+
+Automatic coronary artery calcium scoring in cardiac CT angiography using paired convolutional neural networks基于成对卷积神经网络的心脏CT血管造影冠状动脉钙化自动评分 
+
+Automatic Detection of Atherosclerotic Plaque and Calcification From Intravascular Ultrasound Images by Using Deep Convolutional Neural Networks
